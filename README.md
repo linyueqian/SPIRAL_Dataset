@@ -1,6 +1,6 @@
 # SPIRAL Dataset
 
-[![arXiv](https://img.shields.io/badge/arXiv-2412.12009-b31b1b.svg)](https://arxiv.org/pdf/2412.12009)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.12009-b31b1b.svg)](https://arxiv.org/pdf/2412.12009) [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://speechprune.github.io/)
 
 SPIRAL (Speech Information Retrieval And Lookup) is a dataset designed to test speech language models' ability to process long spoken inputs.
 
