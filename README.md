@@ -10,7 +10,7 @@ SPIRAL consists of spoken lectures and conversations with corresponding transcri
 
 ## Download
 
-The wavs can be downloaded from this [url](https://drive.google.com/file/d/1NXr9N8Q3WhlUe5RtEdymH1Ck8oMmSYWb/view?usp=sharing).
+The wavs can be downloaded from this [url](https://duke.box.com/v/spiral-dataset).
 
 ## Dataset Structure
 
@@ -68,3 +68,16 @@ This dataset can be used for:
 - Training and evaluating Speech LLMs in the context of long-form audio
 - Testing information retrieval from long-form audio
 - Evaluating question-answering capabilities
+
+## Citation
+
+If you use this dataset, please cite it as follows:
+
+```
+@inproceedings{lin2025speechprune,
+  title     = {SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval},
+  author    = {Lin, Yueqian and Fu, Yuzhe and Zhang, Jingyang and Liu, Yudong and Zhang, Jianyi and Sun, Jingwei and Li, Hai and Chen, Yiran},
+  booktitle = {2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  year      = {2025}
+}
+```
